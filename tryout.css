@@ -66,7 +66,7 @@ p {
 }
 
 .divider-middle {
-	background-image: url(".images/BiplanePaint.png");
+	background-image: url("./images/BiplanePainting.png");
 	height: 100vh;
 	background-attachment: fixed;
 	background-position: center center;
@@ -74,7 +74,7 @@ p {
 }
 
 .divider-end {
-	background-image: url(".images/LeavenworthPaint.jpg");
+	background-image: url("./images/LeavenworthPaint.jpg");
 	height: 100vh;
 	background-attachment: fixed;
 	background-position: center center;
@@ -82,7 +82,7 @@ p {
 }
 
 .divider-last {
-	background-image: url(".images/VintageFrameInvite.jpg");
+	background-image: url("./images/VintageFrameInvite.jpg");
 	height: 100vh;
 	background-attachment: fixed;
 	background-position: center center;
